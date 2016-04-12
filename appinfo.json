@@ -1,0 +1,48 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Wackymonkey",
+    "enableMultiJS": true,
+    "longName": "Sierpinski's Triangle Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Sierpinskis Triangle Watchface",
+                "name": "sierp_tri_watchface",
+                "targetPlatforms": null,
+                "type": "png"
+            },
+            {
+                "file": "fonts/orbitron for date",
+                "name": "orbitron_24",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/Orbitron",
+                "name": "orbitron_40",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "images/sierpinski triangle",
+                "name": "sierp_triangle",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Sierpinski's Triangle Watchface",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "3b224173-eed1-4e3f-bdab-fb70629f1b8d",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
